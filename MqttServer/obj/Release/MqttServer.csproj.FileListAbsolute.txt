@@ -1,0 +1,14 @@
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\MqttServer.exe.config
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\MqttServer.exe
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\MqttServer.pdb
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\MQTTnet.dll
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.Form1.resources
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.Message.resources
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.Properties.Resources.resources
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.csproj.GenerateResource.cache
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.csproj.CoreCompileInputs.cache
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.csproj.CopyComplete
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.exe
+C:\Users\jykwon\source\repos\MqttServer\MqttServer\obj\Release\MqttServer.pdb
